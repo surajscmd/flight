@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Yellix TRIAL';
+    src: url('YellixTRIAL-SemiBold.woff2') format('woff2'),
+        url('YellixTRIAL-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellix TRIAL';
+    src: url('YellixTRIAL-ExtraBold.woff2') format('woff2'),
+        url('YellixTRIAL-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellix TRIAL';
+    src: url('YellixTRIAL-Light.woff2') format('woff2'),
+        url('YellixTRIAL-Light.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellix TRIAL';
+    src: url('YellixTRIAL-Black.woff2') format('woff2'),
+        url('YellixTRIAL-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellix TRIAL';
+    src: url('YellixTRIAL-Thin.woff2') format('woff2'),
+        url('YellixTRIAL-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellix TRIAL';
+    src: url('YellixTRIAL-Bold.woff2') format('woff2'),
+        url('YellixTRIAL-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellix TRIAL';
+    src: url('YellixTRIAL-Regular.woff2') format('woff2'),
+        url('YellixTRIAL-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Yellix TRIAL';
+    src: url('YellixTRIAL-Medium.woff2') format('woff2'),
+        url('YellixTRIAL-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
